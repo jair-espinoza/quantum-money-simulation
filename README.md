@@ -25,6 +25,6 @@ You can view the main **simulation results** in the Jupyter notebook file (`test
 Clone the repository and install dependencies:
 
 ```bash
-
+git clone https://github.com/jair-espinoza/quantum-money-simulation.git
 cd quantum-money-simulation
 pip install -r requirements.txt
